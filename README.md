@@ -1,5 +1,9 @@
 ## Calendar
 
+<img src="https://github.com/risu043/calendar/blob/main/public/daygrid.png" width="600" alt="calendar">
+<img src="https://github.com/risu043/calendar/blob/main/public/timegrid.png" width="600" alt="calendar">
+<img src="https://github.com/risu043/calendar/blob/main/public/calendar_er.jpg" width="600" alt="calendar">
+
 -   react、Fullcalendar、laravel で作ったカレンダー
 -   クリックでイベントを作成できる
 -   作成したイベントをドラッグ・リサイズで更新できる
