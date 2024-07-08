@@ -1,12 +1,14 @@
 ## Calendar
 
+-   Fullcalendar、react、laravel で作ったカレンダー
+-   クリックでイベントを作成しデータベースに登録できる
+-   作成したイベントをドラッグ・リサイズで更新できる
+
 <img src="https://github.com/risu043/calendar/blob/main/public/daygrid.png" width="600" alt="calendar">
 <img src="https://github.com/risu043/calendar/blob/main/public/timegrid.png" width="600" alt="calendar">
 <img src="https://github.com/risu043/calendar/blob/main/public/calendar_er.jpg" width="600" alt="calendar">
 
--   react、Fullcalendar、laravel で作ったカレンダー
--   クリックでイベントを作成できる
--   作成したイベントをドラッグ・リサイズで更新できる
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
