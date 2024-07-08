@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .disc {
+        position: relative;
+        padding-left: 14px;
+    }
+    .disc:before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 6px;
+        height: 8px;
+        width: 8px;
+        border-radius: 50%;
+        background-color: #ccc;
+    }
+}
